@@ -1,0 +1,107 @@
+/*
+	Reset Selector - don't remove this!
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* 
+	You can modify everything after this point.
+*/
+
+a:link {
+
+	color: blue;
+
+}
+
+a:visited {
+
+	color: purple;
+
+}
+
+a:focus, a:hover {
+
+	background-color: #ddddff;
+
+	border-radius: 5px;
+
+	text-decoration: underline;
+
+	transition-duration: 0.2s;
+
+	transition-property: background;
+
+}
+
+body {
+
+	margin: 14px;
+
+	font-size: 15px;
+
+	line-height: 145%;
+
+}
+
+section {
+
+}
+
+code {
+	
+}
+
+h1, h2, h3 {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+	
+}
+
+header {
+	
+}
+
+main {
+
+}
+
+p:first-of-type {
+
+	text-indent: 0;
+
+}
+
+p {
+
+	text-indent: 14px;
+
+}
+
+#intro {
+
+}
+section
+
+#how-does-it-work, #influence, #joke {
+
+	border: 2px solid;
+
+	padding: 6px;
+
+	margin-bottom: 12px;
+
+}
